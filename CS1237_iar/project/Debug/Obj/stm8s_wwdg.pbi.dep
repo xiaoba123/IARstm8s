@@ -1,0 +1,27 @@
+stm8s_wwdg.pbi: \
+  C:\Users\Administrator\Desktop\chuanganqi\TEST\CS1237_CH42\FWlib\src\stm8s_wwdg.c \
+  C:\Users\Administrator\Desktop\chuanganqi\TEST\CS1237_CH42\project\..\FWlib\inc\stm8s_wwdg.h \
+  C:\Users\Administrator\Desktop\chuanganqi\TEST\CS1237_CH42\project\..\FWlib\inc/stm8s.h \
+  D:\SOFTWARE\IAR\stm8\inc\c\stdbool.h \
+  C:\Users\Administrator\Desktop\chuanganqi\TEST\CS1237_CH42\project\..\USER\stm8s_conf.h \
+  C:\Users\Administrator\Desktop\chuanganqi\TEST\CS1237_CH42\project\..\FWlib\inc\stm8s.h \
+  C:\Users\Administrator\Desktop\chuanganqi\TEST\CS1237_CH42\project\..\FWlib\inc\stm8s_adc1.h \
+  C:\Users\Administrator\Desktop\chuanganqi\TEST\CS1237_CH42\project\..\FWlib\inc\stm8s_adc2.h \
+  C:\Users\Administrator\Desktop\chuanganqi\TEST\CS1237_CH42\project\..\FWlib\inc\stm8s_awu.h \
+  C:\Users\Administrator\Desktop\chuanganqi\TEST\CS1237_CH42\project\..\FWlib\inc\stm8s_beep.h \
+  C:\Users\Administrator\Desktop\chuanganqi\TEST\CS1237_CH42\project\..\FWlib\inc\stm8s_clk.h \
+  C:\Users\Administrator\Desktop\chuanganqi\TEST\CS1237_CH42\project\..\FWlib\inc\stm8s_exti.h \
+  C:\Users\Administrator\Desktop\chuanganqi\TEST\CS1237_CH42\project\..\FWlib\inc\stm8s_flash.h \
+  C:\Users\Administrator\Desktop\chuanganqi\TEST\CS1237_CH42\project\..\FWlib\inc\stm8s_gpio.h \
+  C:\Users\Administrator\Desktop\chuanganqi\TEST\CS1237_CH42\project\..\FWlib\inc\stm8s_i2c.h \
+  C:\Users\Administrator\Desktop\chuanganqi\TEST\CS1237_CH42\project\..\FWlib\inc\stm8s_itc.h \
+  C:\Users\Administrator\Desktop\chuanganqi\TEST\CS1237_CH42\project\..\FWlib\inc\stm8s_iwdg.h \
+  C:\Users\Administrator\Desktop\chuanganqi\TEST\CS1237_CH42\project\..\FWlib\inc\stm8s_rst.h \
+  C:\Users\Administrator\Desktop\chuanganqi\TEST\CS1237_CH42\project\..\FWlib\inc\stm8s_spi.h \
+  C:\Users\Administrator\Desktop\chuanganqi\TEST\CS1237_CH42\project\..\FWlib\inc\stm8s_tim1.h \
+  C:\Users\Administrator\Desktop\chuanganqi\TEST\CS1237_CH42\project\..\FWlib\inc\stm8s_tim2.h \
+  C:\Users\Administrator\Desktop\chuanganqi\TEST\CS1237_CH42\project\..\FWlib\inc\stm8s_tim3.h \
+  C:\Users\Administrator\Desktop\chuanganqi\TEST\CS1237_CH42\project\..\FWlib\inc\stm8s_tim4.h \
+  C:\Users\Administrator\Desktop\chuanganqi\TEST\CS1237_CH42\project\..\FWlib\inc\stm8s_uart1.h \
+  C:\Users\Administrator\Desktop\chuanganqi\TEST\CS1237_CH42\project\..\FWlib\inc\stm8s_uart3.h \
+  D:\SOFTWARE\IAR\stm8\inc\c\intrinsics.h

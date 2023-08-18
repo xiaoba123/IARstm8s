@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<settings>
+    <InterruptLog>
+        <LogEnabled>0</LogEnabled>
+        <GraphEnabled>0</GraphEnabled>
+        <ShowTimeLog>1</ShowTimeLog>
+        <SumEnabled>0</SumEnabled>
+        <ShowTimeSum>1</ShowTimeSum>
+        <SumSortOrder>0</SumSortOrder>
+    </InterruptLog>
+    <DataLog>
+        <LogEnabled>0</LogEnabled>
+        <GraphEnabled>0</GraphEnabled>
+        <ShowTimeLog>1</ShowTimeLog>
+        <SumEnabled>0</SumEnabled>
+        <ShowTimeSum>1</ShowTimeSum>
+    </DataLog>
+    <Stack>
+        <FillEnabled>0</FillEnabled>
+        <OverflowWarningsEnabled>1</OverflowWarningsEnabled>
+        <WarningThreshold>90</WarningThreshold>
+        <SpWarningsEnabled>1</SpWarningsEnabled>
+        <WarnLogOnly>1</WarnLogOnly>
+        <UseTrigger>1</UseTrigger>
+        <TriggerName>main</TriggerName>
+        <LimitSize>0</LimitSize>
+        <ByteLimit>50</ByteLimit>
+    </Stack>
+    <Breakpoints2>
+        <Count>0</Count>
+    </Breakpoints2>
+    <Interrupts>
+        <Enabled>1</Enabled>
+    </Interrupts>
+    <MemConfig>
+        <Base>1</Base>
+        <Manual>0</Manual>
+        <Ddf>1</Ddf>
+        <TypeViol>0</TypeViol>
+        <Stop>1</Stop>
+    </MemConfig>
+    <Trace1>
+        <Enabled>0</Enabled>
+        <ShowSource>1</ShowSource>
+    </Trace1>
+    <Simulator>
+        <Freq>16000000</Freq>
+        <FreqHi>0</FreqHi>
+        <MultiCoreRunAll>1</MultiCoreRunAll>
+    </Simulator>
+    <DebugChecksum>
+        <Checksum>3864133329</Checksum>
+    </DebugChecksum>
+    <CallStack>
+        <ShowArgs>0</ShowArgs>
+    </CallStack>
+    <Disassembly>
+        <MixedMode>1</MixedMode>
+    </Disassembly>
+    <DataSample>
+        <LogEnabled>0</LogEnabled>
+        <GraphEnabled>0</GraphEnabled>
+        <ShowTimeLog>1</ShowTimeLog>
+    </DataSample>
+    <TermIOLog>
+        <LoggingEnabled>_ 0</LoggingEnabled>
+        <LogFile>_ ""</LogFile>
+    </TermIOLog>
+    <LogFile>
+        <LoggingEnabled>_ 0</LoggingEnabled>
+        <LogFile>_ ""</LogFile>
+        <Category>_ 0</Category>
+    </LogFile>
+    <Breakpoints>
+        <Count>0</Count>
+    </Breakpoints>
+    <Aliases>
+        <A0>_ "C:\Users\Administrator\Desktop\CS1237\FWlib\src\stm8s_gpio.c" ""</A0>
+        <A1>_ "C:\Users\Administrator\Desktop\CS1237\FWlib\src\stm8s_tim1.c" ""</A1>
+        <A2>_ "C:\Users\Administrator\Desktop\CS1237\FWlib\src\stm8s_uart1.c" ""</A2>
+        <A3>_ "C:\Users\Administrator\Desktop\CS1237\USER\uart1.c" ""</A3>
+        <A4>_ "C:\Users\Administrator\Desktop\chuanganqi\CS123701\FWlib\src\stm8s_uart1.c" ""</A4>
+        <A5>_ "C:\Users\Administrator\Desktop\chuanganqi\CS123701\USER\cs1237.c" ""</A5>
+        <A6>_ "C:\Users\Administrator\Desktop\chuanganqi\CS123701\USER\uart1.c" ""</A6>
+        <A7>_ "C:\Users\Administrator\Desktop\chuanganqi\TEST\CS1237_CO\USER\uart1.c" ""</A7>
+        <A8>_ "C:\Users\Administrator\Desktop\传感器\CS123701\USER\main.c" ""</A8>
+        <Count>9</Count>
+        <SuppressDialog>0</SuppressDialog>
+    </Aliases>
+    <DebuggerSettings>
+        <DisableInterruptsWhenStepping>0</DisableInterruptsWhenStepping>
+        <LeaveTargetRunning>0</LeaveTargetRunning>
+    </DebuggerSettings>
+</settings>

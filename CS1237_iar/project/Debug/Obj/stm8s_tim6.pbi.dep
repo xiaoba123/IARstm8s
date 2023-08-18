@@ -1,0 +1,27 @@
+stm8s_tim6.pbi: E:\STM8chengxv\CS1237\FWlib\src\stm8s_tim6.c \
+  E:\STM8chengxv\CS1237\project\..\FWlib\inc\stm8s_tim6.h \
+  E:\STM8chengxv\CS1237\project\..\FWlib\inc/stm8s.h \
+  D:\SOFTWARE\IAR\stm8\inc\c\stdbool.h \
+  E:\STM8chengxv\CS1237\project\..\USER\stm8s_conf.h \
+  E:\STM8chengxv\CS1237\project\..\FWlib\inc\stm8s.h \
+  E:\STM8chengxv\CS1237\project\..\FWlib\inc\stm8s_adc1.h \
+  E:\STM8chengxv\CS1237\project\..\FWlib\inc\stm8s_adc2.h \
+  E:\STM8chengxv\CS1237\project\..\FWlib\inc\stm8s_awu.h \
+  E:\STM8chengxv\CS1237\project\..\FWlib\inc\stm8s_beep.h \
+  E:\STM8chengxv\CS1237\project\..\FWlib\inc\stm8s_clk.h \
+  E:\STM8chengxv\CS1237\project\..\FWlib\inc\stm8s_exti.h \
+  E:\STM8chengxv\CS1237\project\..\FWlib\inc\stm8s_flash.h \
+  E:\STM8chengxv\CS1237\project\..\FWlib\inc\stm8s_gpio.h \
+  E:\STM8chengxv\CS1237\project\..\FWlib\inc\stm8s_i2c.h \
+  E:\STM8chengxv\CS1237\project\..\FWlib\inc\stm8s_itc.h \
+  E:\STM8chengxv\CS1237\project\..\FWlib\inc\stm8s_iwdg.h \
+  E:\STM8chengxv\CS1237\project\..\FWlib\inc\stm8s_rst.h \
+  E:\STM8chengxv\CS1237\project\..\FWlib\inc\stm8s_spi.h \
+  E:\STM8chengxv\CS1237\project\..\FWlib\inc\stm8s_tim1.h \
+  E:\STM8chengxv\CS1237\project\..\FWlib\inc\stm8s_tim2.h \
+  E:\STM8chengxv\CS1237\project\..\FWlib\inc\stm8s_tim3.h \
+  E:\STM8chengxv\CS1237\project\..\FWlib\inc\stm8s_tim4.h \
+  E:\STM8chengxv\CS1237\project\..\FWlib\inc\stm8s_uart1.h \
+  E:\STM8chengxv\CS1237\project\..\FWlib\inc\stm8s_uart3.h \
+  E:\STM8chengxv\CS1237\project\..\FWlib\inc\stm8s_wwdg.h \
+  D:\SOFTWARE\IAR\stm8\inc\c\intrinsics.h
